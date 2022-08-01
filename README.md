@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @slothstronomic
 - 👀 I’m interested in wifi stuff.
-- 🌱 I’m currently learning ethical hacking.
-- 💞️ I’m looking to collaborate on meh.
-- 📫 How to reach me... IM NOT TELLING YOU ANYTHING!
+- 🌱 I’m currently learning ethical stuff.
+- 💞️ I’m looking to collaborate on stuff.
+- 📫 How to reach me... I'M NOT TELLING YOU ANYTHING!
 
 <!---
 slothstronomic/slothstronomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
